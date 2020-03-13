@@ -16,7 +16,8 @@ Coming soon.
 
 ## Baseline 
 - Cross entropy loss function. It is worth mentioning that PyTorch merged log_softmax and nll_loss to serve as cross entropy loss function. 
-- [Forward](https://github.com/giorgiop/loss-correction) and [Backward](https://github.com/giorgiop/loss-correction)
+- [Forward](https://github.com/giorgiop/loss-correction) 
+- [Backward](https://github.com/giorgiop/loss-correction)
 - [Reweight](https://github.com/xiaoboxia/Classification-with-noisy-labels-by-importance-reweighting)
 - [T_revision](https://github.com/xiaoboxia/T-Revision)
 - [Decoupling](https://github.com/emalach/UpdateByDisagreement)
