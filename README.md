@@ -16,7 +16,7 @@ Coming soon.
 
 ## Baseline 
 - Cross entropy loss function. It is worth mentioning that PyTorch merged log_softmax and nll_loss to serve as cross entropy loss function. 
-- [Forward](https://github.com/giorgiop/loss-correction) and Backward[https://github.com/giorgiop/loss-correction]
+- [Forward](https://github.com/giorgiop/loss-correction) and [Backward](https://github.com/giorgiop/loss-correction)
 - [Reweight](https://github.com/xiaoboxia/Classification-with-noisy-labels-by-importance-reweighting)
 - [T_revision](https://github.com/xiaoboxia/T-Revision)
 - [Decoupling](https://github.com/emalach/UpdateByDisagreement)
@@ -27,6 +27,11 @@ Coming soon.
 - [Symmetric Loss](https://github.com/YisenWang/symmetric_cross_entropy_for_noisy_labels)
 - [Deep Self-Learning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.pdf)
 - [L_DMI](https://github.com/Newbeeer/L_DMI)
+- [Co-Regularization]()
+- [DAC](https://github.com/thulas/dac-label-noise)
+- [Understanding and Utilizing](https://github.com/ chenpf1025/noisy_label_understanding_ utilizing)
+- [GCE](https://github.com/AlanChou/Truncated-Loss)
+- [GLC](https://github.com/mmazeika/glc)
 
 
 
