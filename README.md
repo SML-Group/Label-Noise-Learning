@@ -29,7 +29,7 @@ Coming soon.
 - [L_DMI](https://github.com/Newbeeer/L_DMI)
 - [Co-Regularization]()
 - [DAC](https://github.com/thulas/dac-label-noise)
-- [Understanding and Utilizing](https://github.com/ chenpf1025/noisy_label_understanding_ utilizing)
+- [Understanding_and_Utilizing](https://github.com/chenpf1025/noisy_label_understanding_ utilizing)
 - [GCE](https://github.com/AlanChou/Truncated-Loss)
 - [GLC](https://github.com/mmazeika/glc)
 
